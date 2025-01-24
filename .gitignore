@@ -1,6 +1,10 @@
 plugins/*
+!plugins/.gitkeep
 themes/*
+!themes/.gitkeep
 uploads/*
+!uploads/.gitkeep
 wordpress/*
+!wordpress/.gitkeep
 .docker-compose.yml.*
 .env
