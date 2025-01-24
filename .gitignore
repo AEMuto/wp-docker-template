@@ -1,6 +1,6 @@
-/plugins/*
-/themes/*
-/uploads/*
-/wordpress/*
+plugins/*
+themes/*
+uploads/*
+wordpress/*
 .docker-compose.yml.*
 .env
